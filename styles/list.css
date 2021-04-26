@@ -1,9 +1,9 @@
-.view {
+/* .view {
     text-decoration: none;
     padding-left: 42%;
     padding-right: 2%;
 
-}
+} */
 
 .hotelImage {
     height: 250px;
@@ -35,6 +35,13 @@
     flex: 30%;  
 
 }
+
+p>a{
+    color: black;
+}
+.contentDiv:hover{
+    background-color: rosybrown;
+}
 h3{
     padding-bottom: 4%;
 } 
@@ -49,7 +56,10 @@ color: black;
 .content{
 padding:4%;
 }
-.links{
-    display:flex;
+#links{
     margin:2%;
   }
+  #pills-tab {
+    justify-content: center;
+}
+  
