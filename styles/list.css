@@ -62,4 +62,7 @@ padding:4%;
   #pills-tab {
     justify-content: center;
 }
+.checked, .fa-star-half-full{
+    color: orange;
+}
   
